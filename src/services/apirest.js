@@ -1,1 +1,1 @@
-export const urlApi = 'p-gina-transporte-production.up.railway.app';
+export const urlApi = 'p-gina-transporte-production.up.railway.app/api/';
