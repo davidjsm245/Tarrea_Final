@@ -5,7 +5,7 @@ import axios from "axios";
 import { urlApi } from "../../services/apirest";
 import { confirm } from "../../components/Confirmation"; // Vite buscará automáticamente .jsx o .js
 import FormularioAlmacen from "../../components/almacen/FormularioAlmacen";
-import "../../css/modal.css";
+import "../../css/Modal.css";
 import Empresa from "../../components/empresa/Empresa"; // Importa el componente Empresa
 
 class Almacen extends React.Component {
